@@ -31,10 +31,7 @@ Frontend developer from Lviv
 
 [![codewars](https://www.codewars.com/users/sewas87/badges/large)](https://www.codewars.com/users/sewas87) 
   
-📫 You can email me: <a href='mailto:vitalliy.sevastyanov@gmail.com'>vitalliy.sevastyanov@gmail.com
-
-![](https://komarev.com/ghpvc/?username=sewas87)
-  
+📫 You can email me: <a href='mailto:vitalliy.sevastyanov@gmail.com'>vitalliy.sevastyanov@gmail.com  
 
 
 
