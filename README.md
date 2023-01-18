@@ -33,8 +33,6 @@ Frontend developer from Lviv
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
 </div>  
 
-<br/>  
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vitalii-sevastianov-70ab18172" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vitalii-sevastianov-70ab18172" height="30" width="40" /></a>
