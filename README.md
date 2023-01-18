@@ -5,17 +5,6 @@ Frontend developer from Lviv
 
 <h3 align="center">I love programming, finding solutions to complex and exciting tasks, and learning and gaining new knowledge.</h3>
 
-<br/>
-
-<h3>My skills and stats</h3>
-
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=sewas87"><img
-           height=180
-           src="https://github-readme-stats.vercel.app/api?username=sewas87"/></a>
-   <a href="https://github.com/sewas87/github-readme-stats"><img height=180
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sewas87&layout=compact"/></a>
-
 <h3>Languages and Tools</h3>
 <div align="center">  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
@@ -32,6 +21,9 @@ Frontend developer from Lviv
 <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
 </div>  
+
+<h3>Github Stats</h3>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sewas87&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
