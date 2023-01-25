@@ -27,11 +27,12 @@ Frontend developer from Lviv
 <br/>  
 
 ## Github Stats  
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sewas87&hide_border=true&layout=compact" align="left" style="width: 100%" />
-</div>  
-
-<br/>  
+<table>
+<tr align="center" style="border: 0;">
+ <td><a href="https://github.com/sewas87/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sewas87&amp;layout=compact&amp;&amp;hide_border=true" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sewas87&amp;layout=compact&amp;&amp;hide_border=true" style="max-width: 100%;"></a></td>
+<td><a href="https://github.com/sewas87/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sewas87&amp;show_icons=true&amp;include_all_commits=true&count_private=true&amp;&amp;hide_border=true" alt="sewas87's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=sewas87&amp;show_icons=true&count_private=true&amp;include_all_commits=true&amp;&amp;hide_border=true" style="max-width: 100%;"></a></td>
+</tr>
+</table>
 
 ## Connect with me  
 <div align="center">
@@ -49,25 +50,3 @@ Frontend developer from Lviv
 <br/>  
   
 📫 You can email me: <a href='mailto:vitalliy.sevastyanov@gmail.com'>vitalliy.sevastyanov@gmail.com  
-
-
-
-
-
-<!--
-**sewas87/sewas87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&color=%23000000&lines=Frontend+developer+from+Lviv)](https://git.io/typing-svg)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sewas87)](https://git.io/streak-stats)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&color=%23000000&lines=Frontend+developer+from+Lviv)](https://git.io/typing-svg)
-[![codewars](https://www.codewars.com/users/sewas87/badges/large)](https://www.codewars.com/users/sewas87) 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sewas87)](https://github.com/sewas87/github-profile-trophy)
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
