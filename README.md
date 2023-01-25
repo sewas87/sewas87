@@ -28,7 +28,7 @@ Frontend developer from Lviv
 
 ## Github Stats  
 <table>
-<tr align="center" style="border: 0;">
+<tr align="center">
  <td><a href="https://github.com/sewas87/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sewas87&amp;layout=compact&amp;&amp;hide_border=true" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sewas87&amp;layout=compact&amp;&amp;hide_border=true" style="max-width: 100%;"></a></td>
 <td><a href="https://github.com/sewas87/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sewas87&amp;show_icons=true&amp;include_all_commits=true&count_private=true&amp;&amp;hide_border=true" alt="sewas87's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=sewas87&amp;show_icons=true&count_private=true&amp;include_all_commits=true&amp;&amp;hide_border=true" style="max-width: 100%;"></a></td>
 </tr>
