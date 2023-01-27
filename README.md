@@ -1,6 +1,6 @@
 <h2 align="center">Hi there, I'm Vitalii
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> <br/>
-Frontend developer from Lviv  
+Frontend Engineer from Lviv  
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" height="23"/></h2>
 
 <h3 align="center">I love programming, finding solutions to complex and exciting tasks, and learning and gaining new knowledge.</h3>
